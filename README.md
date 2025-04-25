@@ -1,2 +1,3 @@
 # tanix-tx6-armbian-kernel
-this tanix tx6 sources
+
+Find how to build overpower router [here](https://www.twntysvnz.com/).
